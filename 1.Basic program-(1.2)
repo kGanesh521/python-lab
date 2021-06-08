@@ -1,0 +1,10 @@
+#1.2) Implement a python script to purposefully raise Indentation Error and Correct it.
+if 5>2:
+print('five is greater')
+output:
+  SyntaxError: expected an indented block
+ #correction of a indentation error
+ if 5>2:
+	print('five is greater')
+output:	
+       five is greater
